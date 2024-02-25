@@ -1,3 +1,3 @@
 # TheExpenseTrackerApp
 
-Practice app with React Native.
+Practice app with React Native!
